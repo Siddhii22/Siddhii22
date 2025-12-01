@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Siddhi — a BTech  student, currently exploring the world of **Machine Learning** and **Data Science** through hands-on projects.
+I'm Siddhi, a BTech  student, currently exploring the world of **Machine Learning** and **Data Science** through hands-on projects.
 
 - Learning core ML concepts with Python (scikit-learn, pandas, etc.)
 - Interested in solving real-world problems using data
